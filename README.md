@@ -101,7 +101,7 @@ Nếu bạn sử dụng nghiên cứu này, vui lòng trích dẫn:
 ```bibtex
 @inproceedings{ngo2025car,
   title={Hệ thống gợi ý xe ô tô kết hợp nội dung và mô hình ngôn ngữ lớn},
-  author={Ngô, Nguyễn Tường Nghi and Nguyễn, Đình Hưng},
+  author={Nghi, Ngô Nguyễn Tường and Hưng, Nguyễn Đình},
   booktitle={Hội thảo Công nghệ thông tin và Truyền thông 2025 lần thứ 10},
   year={2025},
   organization={Đại học Đà Lạt}
