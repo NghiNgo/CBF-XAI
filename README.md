@@ -5,7 +5,7 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13+-blue.svg)](https://www.postgresql.org/)
 
 > **Trình bày tại:** HỘI THẢO CÔNG NGHỆ THÔNG TIN VÀ TRUYỀN THÔNG 2025 lần thứ 10  
-> **Địa điểm:** Đại học Đà Lạt  
+> **Địa điểm:** Trường Đại học Đà Lạt, Lâm Đồng   
 > **Ngày:** 04/7/2025
 
 ## 📋 Tổng quan
