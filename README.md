@@ -101,7 +101,7 @@ Nếu bạn sử dụng nghiên cứu này, vui lòng trích dẫn:
 ```bibtex
 @inproceedings{ngo2025car,
   title={Hệ thống gợi ý xe ô tô kết hợp nội dung và mô hình ngôn ngữ lớn},
-  author={Tuong-Nghi, Ngo and Hưng, Nguyễn Đình},
+  author={Nghi, Ngô Nguyễn Tường and Hưng, Nguyễn Đình},
   booktitle={Hội thảo Công nghệ thông tin và Truyền thông 2025 lần thứ 10},
   year={2025},
   organization={Đại học Đà Lạt}
@@ -111,20 +111,6 @@ Nếu bạn sử dụng nghiên cứu này, vui lòng trích dẫn:
 ## 📜 License
 
 Dự án này được phát hành dưới [MIT License](LICENSE).
-
-## 🤝 Đóng góp
-
-Chúng tôi chào đón mọi đóng góp! Vui lòng:
-
-1. Fork repository này
-2. Tạo feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit thay đổi (`git commit -m 'Add some AmazingFeature'`)
-4. Push lên branch (`git push origin feature/AmazingFeature`)
-5. Mở Pull Request
-
-## 📞 Liên hệ
-
-Nếu có thắc mắc về nghiên cứu, vui lòng liên hệ qua email hoặc tạo issue trong repository này.
 
 ---
 
